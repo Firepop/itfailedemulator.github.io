@@ -1,10 +1,12 @@
 # GBA Games Website
 
-https://itfailedemulator.github.io 
+
 
 # Origanal Forked Page
 
 https://jsemu2.github.io/gba
+
+itfailedemulator.github.io
 
 # GBA Emulator Core Used:
 
