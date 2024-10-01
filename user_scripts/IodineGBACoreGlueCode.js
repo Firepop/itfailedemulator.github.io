@@ -45,6 +45,8 @@ var games = {
     "ff6":"Final Fantasy VI Advance",
     "final_fantasy_tactics":"Final Fantasy Tactics Advance",
     "fire_emblem":"Fire Emblem",
+    "fire_emblem_6":"Fire Emblem Binding Blade",
+    "fire_emblem_8":"Fire Emblem Sacred Stones",
     "frogger1":"Frogger Advance - The Great Quest",
     "frogger2":"Frogger's Adventures - Temple of the Frog",
     "frogger3":"Frogger's Adventures 2 - The Lost Wand",
